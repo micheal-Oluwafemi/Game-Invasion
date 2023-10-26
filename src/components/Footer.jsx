@@ -134,7 +134,7 @@ const Footer = () => {
             &copy; {date}, Developed by{' '}
             <span
               onClick={() =>
-                window.open('https://rayt3ch-portfolio.pages.dev/', '_blank')
+                window.open('https://rayt3ch.vercel.app', '_blank')
               }
               className='font-semibold cursor-pointer'
             >
@@ -170,7 +170,7 @@ const Footer = () => {
           <div
             onClick={() =>
               window.open(
-                'https://www.linkedin.com/in/ray-tech-06916a261',
+                'https://www.linkedin.com/in/micheal-oluwafemi-06916a261',
                 '_blank'
               )
             }
